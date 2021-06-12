@@ -1,0 +1,1 @@
+The assignment is in aap_hw2_excel_python.docx. The other folder is explained in the assignment.
